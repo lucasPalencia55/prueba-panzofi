@@ -16,11 +16,38 @@ Este es un proyecto web que consta de un frontend desarrollado con **ReactJS** y
 ## Instalación
 
 ### 1. Clonar el repositorio
+```bash
+git clone https://github.com/lucasPalencia55/prueba-panzofi.git
+cd prueba-panzofi
+```
 
 ### 2. Instalar librerias
-
+```bash
+cd prueba-panzofi-frontend
+npm i
+```
 ## Ejecucion
 
 ### 1. Ejecutar backend
+```bash
+python manage.py runserver
+```
 
 ### 2. Ejecutar frontend
+```bash
+npm start
+```
+## Inicio de sesion
+
+### 1. Iniciar sesion como administrador
+- **Usuario**: francodiaz
+- **Contrasena**: password123.
+
+### 2. Iniciar sesion como usuario regular
+- **Usuario**: johndoe
+- **Contrasena**: password123.
+
+
+
+
+
